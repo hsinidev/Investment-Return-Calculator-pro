@@ -1,0 +1,5 @@
+{
+  "name": "Investment Return Calculator",
+  "description": "A modern, responsive Investment Return Calculator to instantly calculate the Future Value (FV) of an initial investment using the compound interest formula. Features a stunning animated galaxy background and a clean, user-friendly interface.",
+  "requestFramePermissions": []
+}
