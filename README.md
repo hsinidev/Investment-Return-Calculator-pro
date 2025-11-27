@@ -11,7 +11,7 @@ A high-performance, SEO-optimized, and visually stunning web application designe
 ## 🚀 Live Demo
 
 **Experience the calculator in action:**
-### [👉 https://ReturnCalculator.doodax.com](https://ReturnCalculator.doodax.com)
+### [👉doodax.com](https://doodax.com/tools/return-calculator/index.html)
 
 ---
 
